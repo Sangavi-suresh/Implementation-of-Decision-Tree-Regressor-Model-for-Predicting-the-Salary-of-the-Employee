@@ -8,7 +8,13 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-import dataset and get data info check for null values Map values for position column Split the dataset into train and test set Import decision tree regressor and fit it for data Calculate MSE,R2 and y predict.
+1. import dataset and get data info
+ 
+2. check for null values Map values for position column
+
+3.Split the dataset into train and test set
+
+4.Import decision tree regressor and fit it for data Calculate MSE,R2 and y predict.
 
 ## Program:
 ```
